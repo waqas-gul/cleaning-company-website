@@ -21,13 +21,6 @@ Professional cleaning services website built with PostTrap for forms, featuring 
 - Service packages (Basic, Premium, Deep Clean)
 - Add-on services selector
 
-### 3. **Booking** (`portfolio.html`)
-![Booking](/portfolio.png)
-- PostTrap-powered form
-- Calendar date picker
-- Area calculator
-- Payment options
-
 ### 4. **About Us** (`about.html`)
 ![About](/about.png)
 - Company story timeline
