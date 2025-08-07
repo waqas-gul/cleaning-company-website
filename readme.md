@@ -28,7 +28,7 @@ Professional cleaning services website built with PostTrap for forms, featuring 
 - Add-on services selector
 
 ### 3. **Booking** (`portfolio.html`)
-![Booking](/portfoli.png)
+![Booking](/portfolio.png)
 - PostTrap-powered form
 - Calendar date picker
 - Area calculator
