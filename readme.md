@@ -28,21 +28,21 @@ Professional cleaning services website built with PostTrap for forms, featuring 
 - Add-on services selector
 
 ### 3. **Booking** (`portfolio.html`)
-![Booking](/portfolio.png)
+![Booking](/portfoli.png)
 - PostTrap-powered form
 - Calendar date picker
 - Area calculator
 - Payment options
 
 ### 4. **About Us** (`about.html`)
-![About](/screenshots/about.png)
+![About](/about.png)
 - Company story timeline
 - Team profiles with badges
 - Service area map
 - Certification badges
 
 ### 5. **Contact** (`contact.html`)
-![Contact](/screenshots/contact.png)
+![Contact](/contact.png)
 - Multi-channel contact options
 - Emergency request form
 - FAQ accordion
